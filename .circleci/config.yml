@@ -19,7 +19,7 @@ parameters:
     default: "005464ce-5dea-4308-b1c4-376a751d0edd"
   region_name:
     type: string
-    default: us-east-1
+    default: us-east-2
 
 main-branch-only: &main-branch-only
   branches:
